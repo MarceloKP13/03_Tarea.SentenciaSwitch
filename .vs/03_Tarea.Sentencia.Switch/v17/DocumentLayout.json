@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF97D8F7-EA33-4811-A7CF-58AB5648E6E2}|Actividad #9\\Actividad #9.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF97D8F7-EA33-4811-A7CF-58AB5648E6E2}|Actividad #9\\Actividad #9.csproj|solutionrelative:actividad #9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2FC767-6257-4164-9642-7F080E489E8B}|Actividad #8\\Actividad #8.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2FC767-6257-4164-9642-7F080E489E8B}|Actividad #8\\Actividad #8.csproj|solutionrelative:actividad #8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752ACE09-2918-446B-A6E0-1344FBACAF6B}|Actividad #7\\Actividad #7.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752ACE09-2918-446B-A6E0-1344FBACAF6B}|Actividad #7\\Actividad #7.csproj|solutionrelative:actividad #7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CE3F41-356F-49A4-83A5-5C08610B9177}|Actividad #6\\Actividad #6.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CE3F41-356F-49A4-83A5-5C08610B9177}|Actividad #6\\Actividad #6.csproj|solutionrelative:actividad #6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C6AE50-92DE-485D-98A5-3015243D379B}|Actividad #5\\Actividad #5.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C6AE50-92DE-485D-98A5-3015243D379B}|Actividad #5\\Actividad #5.csproj|solutionrelative:actividad #5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F9D298-3982-4240-9125-A6A33D76B468}|Actividad #4\\Actividad #4.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F9D298-3982-4240-9125-A6A33D76B468}|Actividad #4\\Actividad #4.csproj|solutionrelative:actividad #4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58EB97-0014-49FA-86AC-3FB62B7A9EAC}|Actividad #3\\Actividad #3.csproj|c:\\users\\user\\source\\repos\\03_tarea.sentencia.switch\\actividad #3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58EB97-0014-49FA-86AC-3FB62B7A9EAC}|Actividad #3\\Actividad #3.csproj|solutionrelative:actividad #3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65909501-72F6-49C2-A949-B7620B2E40DA}|Actividad #2\\Actividad #2.csproj|C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\actividad #2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65909501-72F6-49C2-A949-B7620B2E40DA}|Actividad #2\\Actividad #2.csproj|solutionrelative:actividad #2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413DFEB7-6A0B-4B2C-9291-248F72144B2E}|03_Tarea.Sentencia.Switch\\03_Tarea.Sentencia.Switch.csproj|C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\03_tarea.sentencia.switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413DFEB7-6A0B-4B2C-9291-248F72144B2E}|03_Tarea.Sentencia.Switch\\03_Tarea.Sentencia.Switch.csproj|solutionrelative:03_tarea.sentencia.switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #9\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #9\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #9\\Program.cs",
+              "RelativeToolTip": "Actividad #9\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwE4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:59:56.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #8\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #8\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #8\\Program.cs",
+              "RelativeToolTip": "Actividad #8\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:55:50.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #7\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #7\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #7\\Program.cs",
+              "RelativeToolTip": "Actividad #7\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:45:04.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #6\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #6\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #6\\Program.cs",
+              "RelativeToolTip": "Actividad #6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:35:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #5\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #5\\Program.cs",
+              "RelativeToolTip": "Actividad #5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:30:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #4\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #4\\Program.cs",
+              "RelativeToolTip": "Actividad #4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:30:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #3\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #3\\Program.cs",
+              "RelativeToolTip": "Actividad #3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwDMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:07:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #2\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad #2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\Actividad #2\\Program.cs",
+              "RelativeToolTip": "Actividad #2\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:59:39.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\03_Tarea.Sentencia.Switch\\Program.cs",
+              "RelativeDocumentMoniker": "03_Tarea.Sentencia.Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\03_Tarea.Sentencia.Switch\\03_Tarea.Sentencia.Switch\\Program.cs",
+              "RelativeToolTip": "03_Tarea.Sentencia.Switch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:42:20.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

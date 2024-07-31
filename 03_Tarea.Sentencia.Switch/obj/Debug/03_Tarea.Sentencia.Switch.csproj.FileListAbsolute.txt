@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\bin\Debug\03_Tarea.Sentencia.Switch.exe.config
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\bin\Debug\03_Tarea.Sentencia.Switch.exe
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\bin\Debug\03_Tarea.Sentencia.Switch.pdb
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\obj\Debug\03_Tarea.Sentencia.Switch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\obj\Debug\03_Tarea.Sentencia.Switch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\obj\Debug\03_Tarea.Sentencia.Switch.exe
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\03_Tarea.Sentencia.Switch\obj\Debug\03_Tarea.Sentencia.Switch.pdb

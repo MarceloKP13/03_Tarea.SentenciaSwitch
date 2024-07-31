@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\bin\Debug\Actividad #9.exe.config
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\bin\Debug\Actividad #9.exe
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\bin\Debug\Actividad #9.pdb
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\obj\Debug\Actividad #9.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\obj\Debug\Actividad #9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\obj\Debug\Actividad #9.exe
+C:\Users\user\source\repos\03_Tarea.Sentencia.Switch\Actividad #9\obj\Debug\Actividad #9.pdb
